@@ -1,0 +1,4 @@
+There is lost not more than 9.24% information about students.
+
+There are a total of 6388792 students in statistics before processing them.
+During processing data 589831 of them have to be dropped due to incomplete or imperfect information about their schools. There were also chosen only most important types of schools in Poland.
