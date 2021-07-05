@@ -17,7 +17,8 @@ setup(
     install_requires=[
         "pandas>=1.2.5",
         "numpy>=1.21",
-        "xlrd>=2.0.1"
+        "xlrd>=2.0.1",
+        "openpyxl>=3.0.7"
     ],
     python_requires='>=3.8.6'
 )
