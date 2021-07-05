@@ -20,5 +20,5 @@ setup(
         "xlrd>=2.0.1",
         "openpyxl>=3.0.7"
     ],
-    python_requires='>=3.8.6'
+    python_requires='>=3.8'
 )
